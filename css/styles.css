@@ -24,7 +24,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.header-menu-list .header-menu-item {
+.header-menu-list > li {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
