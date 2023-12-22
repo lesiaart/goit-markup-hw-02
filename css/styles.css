@@ -43,7 +43,10 @@ body {
   color: #404bbf;
 }
 
-.header-logo .header-address {
+.header-logo {
+  font-style: normal;
+}
+.header-address {
   font-style: normal;
 }
 .header-address-link {
