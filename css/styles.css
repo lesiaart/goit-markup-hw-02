@@ -5,8 +5,6 @@ body {
 }
 
 /**-----------------------Header--------------------**/
-.header-body {
-}
 
 .header-logo-span {
   color: #2e2f42;
@@ -49,6 +47,11 @@ body {
 .header-address {
   font-style: normal;
 }
+.header-link-studio:hover,
+.header-link-studio:focus {
+  color: #404bbf;
+}
+
 .header-address-link {
   color: #434455;
   font-size: 16px;
