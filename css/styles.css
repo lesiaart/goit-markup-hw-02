@@ -6,7 +6,7 @@ body {
 
 /**-----------------------Header--------------------**/
 
-.header-logo span {
+.header-logo-span {
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
@@ -32,11 +32,7 @@ body {
   letter-spacing: 0.02em;
   cursor: pointer;
 }
-.header-link:hover,
-.header-link:focus,
-.header-link:active {
-  color: #404bbf;
-}
+
 .header-address {
   font-style: normal;
 }
@@ -106,7 +102,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.team .team-title {
+.team {
   background-color: #f4f4fd;
 }
 .team-title {
@@ -118,7 +114,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.team-list {
+.team-item {
   background-color: #ffffff;
 }
 
@@ -176,7 +172,7 @@ body {
   text-transform: uppercase;
   cursor: pointer;
 }
-.footer-logo span {
+.footer-logo-span {
   color: #f4f4fd;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
